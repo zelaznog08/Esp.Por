@@ -1,0 +1,7 @@
+{
+  "name": "Traductor Bilingüe (Español-Portugués)",
+  "description": "Una aplicación de traducción de voz y texto en tiempo real entre español y portugués, impulsada por la API de Gemini. Hable o escriba en un idioma y escuche la traducción al instante.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
